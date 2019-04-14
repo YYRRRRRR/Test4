@@ -1,5 +1,3 @@
-# Test4
-实验四
 在XML文件中声明的Preference类的各种子类构建而成,Preference对象是单个设置的构建基块,每个Preference均作为项目显示在列表中,并提供适当的UI用户修改设置。
 CheckBoxPreference 显示复选框
 EditTextPreference 打开一个包含EditText小部件的对话框
